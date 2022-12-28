@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\Calcul\bin\Debug\Calcul.exe.config
+C:\Users\Пользователь\source\repos\Calcul\bin\Debug\Calcul.exe
+C:\Users\Пользователь\source\repos\Calcul\bin\Debug\Calcul.pdb
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.Form1.resources
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.exe
+C:\Users\Пользователь\source\repos\Calcul\obj\Debug\Calcul.pdb
